@@ -66,7 +66,7 @@ var juegoP = (function (win, doc) {
 
 			html += "<div class='card' data-show='1'>";
 			html += "<div class='pareja mostrarP'></div>";
-			html += "<img src='img/carta.png' class='flip-1'/>";
+			html += "<img src='img/carta.jpeg' class='flip-1'/>";
 			html += "</div>";
 
 		}
